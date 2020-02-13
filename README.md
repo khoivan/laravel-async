@@ -23,7 +23,7 @@ A package provide an easy way to run code asynchronous and parallel base on [Spa
 Require Laravel Async using [Composer](https://getcomposer.org):
 
 ```bash
-composer require vxm/laravel-async
+composer require khoivan/laravel-async
 ```
 
 The package will automatically register itself.

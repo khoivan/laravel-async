@@ -1,8 +1,8 @@
 {
-    "name": "vxm/laravel-async",
+    "name": "khoivan/laravel-async",
     "description": "Provide an easy way to run code asynchronously for Laravel",
     "keywords": [
-        "vxm",
+        "khoivan",
         "laravel-async"
     ],
     "homepage": "https://github.com/vuongxuongminh/laravel-async",
