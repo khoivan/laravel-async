@@ -7,8 +7,6 @@
  */
 
 namespace VXM\Async;
-
-use Illuminate\Contracts\Support\DeferrableProvider;
 use Illuminate\Support\ServiceProvider as BaseServiceProvider;
 use VXM\Async\Commands\JobMakeCommand;
 
@@ -16,7 +14,7 @@ use VXM\Async\Commands\JobMakeCommand;
  * @author Vuong Minh <vuongxuongminh@gmail.com>
  * @since 1.0.0
  */
-class AsyncServiceProvider extends BaseServiceProvider implements DeferrableProvider
+class AsyncServiceProvider extends BaseServiceProvider
 {
     /**
      * Package boot.
